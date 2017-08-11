@@ -1,3 +1,4 @@
+
 $(document).ready(function() {
   $("#formOne").submit(function(event) {
     var person1Input = $("input#person1").val();
@@ -15,3 +16,11 @@ $(document).ready(function() {
     event.preventDefault();
   });
 });
+
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
