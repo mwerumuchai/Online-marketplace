@@ -1,19 +1,33 @@
-.jumbotron {
-  background-color: #f4e1d2;
-  font-family: 'Parisienne', cursive;
-  font-style: italic;
-  font-size: 250%;
-  color: #ff0080;
-  margin-bottom: 0;
+.jumbotron{
+ background-color: #f4e1d2;
+ background-size: cover;
+ padding-top: 60px !important;
+ padding: 90px 10px;
+ width: 100%;
+ height: 200px;
+ margin-left: 0;
+ margin-bottom: 0;
+ font-family: 'Parisienne', cursive;
+ color: #ff0080;
+ font-size: 40px;
 }
-/* Remove the navbar's default rounded borders and increase the bottom margin */
-.navbar {
-  margin-bottom: 50px;
-  border-radius: 0;
+
+#story {
+  display: none;
+}
+
+#col1{
+ padding-top:80px;
+ padding-bottom:80px;
+}
+
+#col2{
+ padding-top:80px;
+ padding-bottom:80px; 
 }
 
 /* Add a gray background color and some padding to the footer */
 footer {
-  background-color: #DB7093;
+  background-color: #ffffff;
   padding: 25px;
 }
