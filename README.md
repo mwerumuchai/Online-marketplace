@@ -5,13 +5,7 @@
 
 ### Description-of-the-project:
 Online Jewellery Shop
-
-### Business Logic
-It will evaluate whether the values produced will return ping, pong  or pingpong
-
-### User Interface Logic
-It will collect the input from the user, call our business logic function and display the results from the business logic on the web page
-
+From Earings, Necklaces and many MOre
 
 ### Project-Setup-Instructions
 1. Install Atom
