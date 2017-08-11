@@ -7,9 +7,13 @@
  height: 200px;
  margin-left: 0;
  margin-bottom: 0;
- font-family: 'Parisienne', cursive;
+ font-family: 'Parisienne', cursive !important;
  color: #ff0080;
  font-size: 40px;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
 }
 
 #story {
@@ -23,11 +27,11 @@
 
 #col2{
  padding-top:80px;
- padding-bottom:80px; 
+ padding-bottom:80px;
 }
 
 /* Add a gray background color and some padding to the footer */
 footer {
-  background-color: #ffffff;
+  background-color: #f4e1d2;
   padding: 25px;
 }
